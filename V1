@@ -5,10 +5,10 @@
 
 
 // Configuración de la red WiFi
-const char *ssid = "Martinez 2.4G";
-const char *password = "lancenter2022";
-const char *mqtt_server = "viaduct.proxy.rlwy.net"; // Reemplaza con la dirección de tu broker MQTT
-const int mqtt_port = 12676; // Puerto predeterminado
+const char *ssid = "  ";
+const char *password = "   ";
+const char *mqtt_server = "   "; // Reemplaza con la dirección de tu broker MQTT
+const int mqtt_port = ; // Puerto predeterminado
 const char *mqtt_username = "test";  // Cambia esto por el nombre de usuario de tu broker MQTT
 const char *mqtt_password = "pass1234";  // Cambia esto por la contraseña de tu broker MQTT
 
